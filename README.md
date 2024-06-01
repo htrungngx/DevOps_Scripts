@@ -1,2 +1,4 @@
 # DevOps_Scripts
-This repo to automate daily DevOps/Linux/SRE tasks
+This project was intended as a place to gather all the scripts I wrote useful recalling from the command line for my daily tasks as a DevOps Engineer
+
+
