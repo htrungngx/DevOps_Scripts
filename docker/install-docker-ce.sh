@@ -1,5 +1,4 @@
 #!/bin/bash
-# Authored by John Paulo Mataac
 
 if [[ $EUID > 0 ]]
   then echo "Exiting... Please run as root"
