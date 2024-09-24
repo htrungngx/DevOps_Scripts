@@ -9,7 +9,7 @@ services:
       - "1433:1433"
     environment:
       ACCEPT_EULA: "Y"
-      SA_PASSWORD: "Str0ngPa5sVvorcl"
+      SA_PASSWORD: "HoangTrung12345"
     volumes:
       - sqlserver-data:/var/opt/mssql
 
